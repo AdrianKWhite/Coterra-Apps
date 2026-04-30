@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PI Database Dashboard - Streamlit Application
 
 A comprehensive Streamlit dashboard for visualizing and analyzing PI database data from One Source (Denodo).
@@ -188,3 +189,6 @@ For issues or questions:
 
 **Last Updated**: April 2026  
 **Dashboard Version**: 1.0
+=======
+# Coterra-Apps
+>>>>>>> 94fc01cfef09c17145bcc475ae08bb19c756e412
